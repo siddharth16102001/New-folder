@@ -1,0 +1,23 @@
+  Financial Score
+  Impact analysis of downtime: A
+  Cybersecurity cost to revenue: A
+  ROI mapping of risks protected to cost incurred: A
+  Insurance premium paid: A
+
+  Legal Score
+  Compliance as per industry standards: B
+  Compliance to existing certifications: B
+  Compliance to regulatory standards: B
+  Liabilities arising from 3rd parties (customer, partner, supplier/vendor): B
+
+  Business Score
+  Evidence of readiness for achieving RTO and RPO: C
+  Asset inventory and classification: C
+  Managing internal threats: C
+  Managing forward-looking risks: C
+
+  Technical Score
+  Threat landscape: D
+  Defensive measures: D
+  Offensive measures: D
+  Continuous monitoring effectiveness: D
